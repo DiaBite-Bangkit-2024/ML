@@ -21,5 +21,5 @@ diabetes_data = diabetes_data[selected_features]
 diabetes_data
 
 diabetes_data = diabetes_data.astype('int64')
-diabetes_data.to_pickle('data/diabetes_binary1.pkl')
+diabetes_data.to_pickle('data/diabetes_binary.pkl')
 
