@@ -27,9 +27,9 @@ categories = {
 }
 #percent
 for i, prob in enumerate(prediction):
-    prob_percentage = prob * 100  # Convert to percentage
+    prob_percentage = prob * 100  
     for category, condition in categories.items():
-        if condition(prob_percentage):  # Use percentage in the condition
+        if condition(prob_percentage):  
             print(f"Sample {i + 1}: {category} (Probability of having diabetes: {prob_percentage:.2f}%)")
             break
 
