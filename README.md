@@ -15,7 +15,7 @@ Coming soon..
 
 ### Model #1
 
-Coming soon..
+The diabetes model use relevant features from the dataset to predict the likelihood of diabetes in user using neural network.
 
 ### Model #2
 
