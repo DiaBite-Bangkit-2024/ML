@@ -59,20 +59,21 @@ This project utilizes several Python libraries for data handling, machine learni
     cd diabetesModel
     ```
 
-3. Install dependencies
+3. Install dependencies for running the .py files locally
 
     ```
     # if using pip
-    pip install -r requirements.txt
+    pip install -r requirement.txt
 
     # if using pip3
-    pip3 install -r requirements.txt
+    pip3 install -r requirement.txt
 
     # if using conda
-    conda install --yes --file requirements.txt
+    conda install --yes --file requirement.txt
     ```
-
-4. Now you can execute and explore every script and notebook in `diabetesModel`
+4. open and execute the ipynb files through google colab or notebook
+   
+5. Now you can execute and explore every script and notebook in `diabetesModel`
 
 ### Model #2
 
